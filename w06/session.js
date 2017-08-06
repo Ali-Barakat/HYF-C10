@@ -39,7 +39,7 @@ window.onload = () => {
             let name = member.login
             let url = member.url
             let avatar = member.avatar_url
-            members.push(`<li><a href="${url}">${name}</a></li>`)
+            members.push(`<li><a href="${url}">${name}</br></a> </br> <img src="${avatar}" width= "150"></br> </li></br>`)
         })
     RenderMemberList()
     })

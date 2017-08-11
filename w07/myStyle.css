@@ -1,0 +1,23 @@
+ul{
+    list-style: none;
+}
+a{
+    font-family: Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+    color: blueviolet;
+}
+li{
+    text-decoration: none;
+    font-style: none;
+}
+img{
+    border-radius: 25px;
+}
+.repo-list a{
+    color: tomato;
+}
+h1{
+    font-family: helvetica;
+    color: blue;
+}
